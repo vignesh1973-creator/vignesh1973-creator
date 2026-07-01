@@ -140,15 +140,6 @@ A hotel/room booking backend designed with scalable REST APIs and secure authent
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=vignesh1973-creator&theme=algolia&no-frame=true&margin-w=10" />
-  
-</p>
-
----
 
 # 🎯 2026 Goals
 
